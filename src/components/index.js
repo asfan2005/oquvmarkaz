@@ -1,0 +1,11 @@
+export { default as Login } from "./login/Login";
+export { default as Main } from "./main/Main";
+export { default as Header } from "./header/Header";
+export { default as Navbar } from "./navbar/Navbar";
+export { default as Tablelar } from "./tablelar/Tablelar";
+export { default as RoyxatdanOtish } from "./RoyxatdanOtish/RoyxatdanOtish";
+export { default as Sinflar } from "./sinflar/Sinflar";
+export { default as TalabalarRoyxati } from "./barchaTalabalar/TalabalarRoyxati";
+export { default as Natijalar } from "./natijalarniYuborish/Natijalar";
+export { default as Davomat } from "./davomat/Davomat";
+export { default as OylikTolovlar } from "./oylikTolovlar/OylikTolovlar";
